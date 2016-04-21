@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CoinCounterTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2016-04-21T20:58:10" hostname="epicodus-31.local" time="0.003">
+  <properties/>
+  <testcase name="coinCombo_countquartersdimesnickelsandpennies_2111" classname="CoinCounterTest" time="0.002"/>
+  <testcase name="coinCombo_countquarters_1" classname="CoinCounterTest" time="0.0"/>
+  <testcase name="coinCombo_countquarters_2" classname="CoinCounterTest" time="0.0"/>
+  <testcase name="coinCombo_countquartersanddime_21" classname="CoinCounterTest" time="0.001"/>
+  <testcase name="coinCombo_countquartersdimeandnickel_211" classname="CoinCounterTest" time="0.0"/>
+  <system-out><![CDATA[16
+6
+1
+[Ljava.lang.Integer;@34116417
+0
+0
+0
+[Ljava.lang.Integer;@3ea0b86c
+0
+0
+0
+[Ljava.lang.Integer;@1a782086
+10
+0
+0
+[Ljava.lang.Integer;@6a1175aa
+15
+5
+0
+[Ljava.lang.Integer;@28c5b401
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
